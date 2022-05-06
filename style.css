@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #b91111;
+    background-color: #070436;
     display: flex;
     justify-content: flex-end;
     padding: 1rem;
@@ -32,7 +32,7 @@ header {
 }
 
 .search:focus {
-    background-color: #22254b;
+    background-color: #3038a7;
     outline: none;
 }
 
@@ -42,7 +42,7 @@ main {
 }
 
 .movie {
-    background-color: #1a1d47;
+    background-color: #4a0f61;
     border-radius: 3px;
     box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
     overflow: hidden;
@@ -87,7 +87,7 @@ main {
 }
 
 .overview {
-    background-color: rgb(226, 182, 182);
+    background-color: rgb(236, 170, 209);
     padding: 2rem;
     position: absolute;
     max-height: 100%;
